@@ -1,0 +1,7 @@
+API = gg. makeRequest(' https://pastebin.com/raw/u1Q5bPyw').content
+ถ้าไม่ใช่ API แล้ว
+ก. alert(' ⚠️⚠️ คุณเก่ง ⚠️⚠️\n ⚠️ คุณไม่ได้ให้อินเทอร์เน็ต ⚠️')
+คัดจมูก()
+อื่น
+พีซีคอล (โหลด (API)) 
+จบ
