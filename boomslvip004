@@ -1,5 +1,4 @@
-
-API = gg. makeRequest('https://raw.githubusercontent.com/boomsl/boom-vip/main/boomslvip001').content
+API = gg. makeRequest('https://raw.githubusercontent.com/boomsl/boom-vip/main/boomslvip003').content
 if not API then
 gg. alert('            ⚠️⚠️ คุณออฟไลน์ ⚠️⚠️\n ⚠️ คุณไม่ได้ให้การเข้าถึงอินเทอร์เน็ต  ⚠️')
 noselect()
